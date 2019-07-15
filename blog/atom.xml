@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fluttercn.dev/blog</id>
+    <title>Flutter Fans Blog</title>
+    <updated>2019-07-12T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://fluttercn.dev/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Flutter Fans news and events.</subtitle>
+    <logo>https://fluttercn.dev/img/favicon.png</logo>
+    <rights>Copyright © 2019 Fluttercn.dev</rights>
+    <entry>
+        <title type="html"><![CDATA[Flutter Fans 网站上线了]]></title>
+        <id>https://fluttercn.dev/blog/2019/07/12/site-online.html</id>
+        <link href="https://fluttercn.dev/blog/2019/07/12/site-online.html">
+        </link>
+        <updated>2019-07-12T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Flutter Fans 是一个学习与沉淀 Flutter 技术的网站</p> ]]></summary>
+        <author>
+            <name>Yan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutter Widget 官方视频全集（持续更新）]]></title>
+        <id>https://fluttercn.dev/blog/2019/07/12/flutter-widget-videos.html</id>
+        <link href="https://fluttercn.dev/blog/2019/07/12/flutter-widget-videos.html">
+        </link>
+        <updated>2019-07-12T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Flutter 官方每周会在 Youtube 上发布 Widget 介绍小视频，我们会同步更新一下视频列表，后期规划翻译并发布图文文章。</p>
+]]></summary>
+        <author>
+            <name>Yan</name>
+        </author>
+    </entry>
+</feed>
