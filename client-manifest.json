@@ -45,13 +45,6 @@
       4,
       1
     ],
-    "@theme/BlogListPage": [
-      0,
-      2,
-      3,
-      4,
-      1
-    ],
     "@theme/DocLegacyPage": [
       0,
       2,
@@ -60,6 +53,13 @@
       1
     ],
     "@theme/DocLegacyItem": [
+      0,
+      2,
+      3,
+      4,
+      1
+    ],
+    "@theme/BlogListPage": [
       0,
       2,
       3,
@@ -158,7 +158,7 @@
     "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-c06.json": [
       21
     ],
-    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-16-dart-basis-4-1ff.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-16-dart-basis-1-e93.json": [
       22
     ],
     "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-tags-basic-f79.json": [
@@ -188,13 +188,13 @@
     "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-pages/index.json": [
       31
     ],
-    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-12-flutter-widget-videos-ce5.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-16-dart-basis-3-ac2.json": [
       32
     ],
-    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-16-dart-basis-3-ac2.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-12-flutter-widget-videos-ce5.json": [
       33
     ],
-    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-16-dart-basis-1-e93.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-16-dart-basis-4-1ff.json": [
       34
     ],
     "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-16-dart-basis-2-35d.json": [
@@ -221,16 +221,16 @@
     "1": {
       "css": [
         {
-          "file": "docusaurus.6ffc5c862f9a85926f83.css",
-          "hash": "6ffc5c862f9a85926f83",
-          "publicPath": "/docusaurus.6ffc5c862f9a85926f83.css"
+          "file": "docusaurus.fcc232b5b70208eb26b9.css",
+          "hash": "fcc232b5b70208eb26b9",
+          "publicPath": "/docusaurus.fcc232b5b70208eb26b9.css"
         }
       ],
       "js": [
         {
-          "file": "docusaurus.6ffc5c862f9a85926f83.js",
-          "hash": "6ffc5c862f9a85926f83",
-          "publicPath": "/docusaurus.6ffc5c862f9a85926f83.js"
+          "file": "docusaurus.fcc232b5b70208eb26b9.js",
+          "hash": "fcc232b5b70208eb26b9",
+          "publicPath": "/docusaurus.fcc232b5b70208eb26b9.js"
         }
       ]
     },
@@ -271,178 +271,178 @@
     "5": {
       "js": [
         {
-          "file": "content---blog-10-e-7a9.9bf00d69bb01967d8e43.js",
-          "hash": "9bf00d69bb01967d8e43",
-          "publicPath": "/content---blog-10-e-7a9.9bf00d69bb01967d8e43.js"
+          "file": "content---blog-10-e-7a9.16ad4d216f82d859597d.js",
+          "hash": "16ad4d216f82d859597d",
+          "publicPath": "/content---blog-10-e-7a9.16ad4d216f82d859597d.js"
         }
       ]
     },
     "6": {
       "js": [
         {
-          "file": "content---blog-2019-07-12-flutter-widget-videosb-80-447.77dbf5694e4483cde1ae.js",
-          "hash": "77dbf5694e4483cde1ae",
-          "publicPath": "/content---blog-2019-07-12-flutter-widget-videosb-80-447.77dbf5694e4483cde1ae.js"
+          "file": "content---blog-2019-07-12-flutter-widget-videosb-80-447.544fb62b22e848b130b8.js",
+          "hash": "544fb62b22e848b130b8",
+          "publicPath": "/content---blog-2019-07-12-flutter-widget-videosb-80-447.544fb62b22e848b130b8.js"
         }
       ]
     },
     "7": {
       "js": [
         {
-          "file": "content---blog-2019-07-16-dart-basis-1-b-44-8b1.92edd7015464d0030faf.js",
-          "hash": "92edd7015464d0030faf",
-          "publicPath": "/content---blog-2019-07-16-dart-basis-1-b-44-8b1.92edd7015464d0030faf.js"
+          "file": "content---blog-2019-07-16-dart-basis-1-b-44-8b1.40277a75e6601b80834e.js",
+          "hash": "40277a75e6601b80834e",
+          "publicPath": "/content---blog-2019-07-16-dart-basis-1-b-44-8b1.40277a75e6601b80834e.js"
         }
       ]
     },
     "8": {
       "js": [
         {
-          "file": "content---blog-2019-07-16-dart-basis-29-e-0-38e.811e2a3e345673151aca.js",
-          "hash": "811e2a3e345673151aca",
-          "publicPath": "/content---blog-2019-07-16-dart-basis-29-e-0-38e.811e2a3e345673151aca.js"
+          "file": "content---blog-2019-07-16-dart-basis-29-e-0-38e.8a56b95feb08f3c9f8a4.js",
+          "hash": "8a56b95feb08f3c9f8a4",
+          "publicPath": "/content---blog-2019-07-16-dart-basis-29-e-0-38e.8a56b95feb08f3c9f8a4.js"
         }
       ]
     },
     "9": {
       "js": [
         {
-          "file": "content---blog-2019-07-16-dart-basis-31-a-6-e57.895b28008a9eaacef273.js",
-          "hash": "895b28008a9eaacef273",
-          "publicPath": "/content---blog-2019-07-16-dart-basis-31-a-6-e57.895b28008a9eaacef273.js"
+          "file": "content---blog-2019-07-16-dart-basis-31-a-6-e57.d32bb755c2e7cce03cb6.js",
+          "hash": "d32bb755c2e7cce03cb6",
+          "publicPath": "/content---blog-2019-07-16-dart-basis-31-a-6-e57.d32bb755c2e7cce03cb6.js"
         }
       ]
     },
     "10": {
       "js": [
         {
-          "file": "content---blog-2019-07-16-dart-basis-4-ff-3-b58.da91688a9cb9c300dce0.js",
-          "hash": "da91688a9cb9c300dce0",
-          "publicPath": "/content---blog-2019-07-16-dart-basis-4-ff-3-b58.da91688a9cb9c300dce0.js"
+          "file": "content---blog-2019-07-16-dart-basis-4-ff-3-b58.00115118ce4980c9d4d3.js",
+          "hash": "00115118ce4980c9d4d3",
+          "publicPath": "/content---blog-2019-07-16-dart-basis-4-ff-3-b58.00115118ce4980c9d4d3.js"
         }
       ]
     },
     "11": {
       "js": [
         {
-          "file": "content---blog-5-fc-b56.d59156e5e022413a19de.js",
-          "hash": "d59156e5e022413a19de",
-          "publicPath": "/content---blog-5-fc-b56.d59156e5e022413a19de.js"
+          "file": "content---blog-5-fc-b56.403c168004a59a96eca9.js",
+          "hash": "403c168004a59a96eca9",
+          "publicPath": "/content---blog-5-fc-b56.403c168004a59a96eca9.js"
         }
       ]
     },
     "12": {
       "js": [
         {
-          "file": "content---blog-580-8b6.a763231a19041a02fb98.js",
-          "hash": "a763231a19041a02fb98",
-          "publicPath": "/content---blog-580-8b6.a763231a19041a02fb98.js"
+          "file": "content---blog-580-8b6.019a372d2476d43f7207.js",
+          "hash": "019a372d2476d43f7207",
+          "publicPath": "/content---blog-580-8b6.019a372d2476d43f7207.js"
         }
       ]
     },
     "13": {
       "js": [
         {
-          "file": "content---blogbb-5-63d.b2a034500f5f8330ecdd.js",
-          "hash": "b2a034500f5f8330ecdd",
-          "publicPath": "/content---blogbb-5-63d.b2a034500f5f8330ecdd.js"
+          "file": "content---blogbb-5-63d.5628ab4168f7152d29fc.js",
+          "hash": "5628ab4168f7152d29fc",
+          "publicPath": "/content---blogbb-5-63d.5628ab4168f7152d29fc.js"
         }
       ]
     },
     "14": {
       "js": [
         {
-          "file": "content---blogf-92-898.4de26d13738abd76c11d.js",
-          "hash": "4de26d13738abd76c11d",
-          "publicPath": "/content---blogf-92-898.4de26d13738abd76c11d.js"
+          "file": "content---blogf-92-898.b78ef874552ee9f425f9.js",
+          "hash": "b78ef874552ee9f425f9",
+          "publicPath": "/content---blogf-92-898.b78ef874552ee9f425f9.js"
         }
       ]
     },
     "15": {
       "js": [
         {
-          "file": "content---docs-doc-1485-ea9.a1c8e1e904e788f389c5.js",
-          "hash": "a1c8e1e904e788f389c5",
-          "publicPath": "/content---docs-doc-1485-ea9.a1c8e1e904e788f389c5.js"
+          "file": "content---docs-doc-1485-ea9.114c495546a7367820fb.js",
+          "hash": "114c495546a7367820fb",
+          "publicPath": "/content---docs-doc-1485-ea9.114c495546a7367820fb.js"
         }
       ]
     },
     "16": {
       "js": [
         {
-          "file": "content---docs-doc-23-da-2dd.b1d76d6f17aca8f5b8f7.js",
-          "hash": "b1d76d6f17aca8f5b8f7",
-          "publicPath": "/content---docs-doc-23-da-2dd.b1d76d6f17aca8f5b8f7.js"
+          "file": "content---docs-doc-23-da-2dd.2d94cabda12131df8b72.js",
+          "hash": "2d94cabda12131df8b72",
+          "publicPath": "/content---docs-doc-23-da-2dd.2d94cabda12131df8b72.js"
         }
       ]
     },
     "17": {
       "js": [
         {
-          "file": "content---docs-doc-38-b-3-af8.05478ff1c4d6c3cdbaf1.js",
-          "hash": "05478ff1c4d6c3cdbaf1",
-          "publicPath": "/content---docs-doc-38-b-3-af8.05478ff1c4d6c3cdbaf1.js"
+          "file": "content---docs-doc-38-b-3-af8.6336af61eb6a5622a21a.js",
+          "hash": "6336af61eb6a5622a21a",
+          "publicPath": "/content---docs-doc-38-b-3-af8.6336af61eb6a5622a21a.js"
         }
       ]
     },
     "18": {
       "js": [
         {
-          "file": "content---docs-mdx-0-bf-16e.cfda5fdfd21d76a79bc3.js",
-          "hash": "cfda5fdfd21d76a79bc3",
-          "publicPath": "/content---docs-mdx-0-bf-16e.cfda5fdfd21d76a79bc3.js"
+          "file": "content---docs-mdx-0-bf-16e.252077ca9760525bf63c.js",
+          "hash": "252077ca9760525bf63c",
+          "publicPath": "/content---docs-mdx-0-bf-16e.252077ca9760525bf63c.js"
         }
       ]
     },
     "19": {
       "js": [
         {
-          "file": "docsMetadata---docs-7-f-7-bea.1fbc5c3792cea96b40fd.js",
-          "hash": "1fbc5c3792cea96b40fd",
-          "publicPath": "/docsMetadata---docs-7-f-7-bea.1fbc5c3792cea96b40fd.js"
+          "file": "docsMetadata---docs-7-f-7-bea.f2cf1a8febe398effc81.js",
+          "hash": "f2cf1a8febe398effc81",
+          "publicPath": "/docsMetadata---docs-7-f-7-bea.f2cf1a8febe398effc81.js"
         }
       ]
     },
     "20": {
       "css": [
         {
-          "file": "main.3b3ecc619d217a387b22.css",
-          "hash": "3b3ecc619d217a387b22",
-          "publicPath": "/main.3b3ecc619d217a387b22.css"
+          "file": "main.86e74159914a4378c714.css",
+          "hash": "86e74159914a4378c714",
+          "publicPath": "/main.86e74159914a4378c714.css"
         }
       ],
       "js": [
         {
-          "file": "main.3b3ecc619d217a387b22.js",
-          "hash": "3b3ecc619d217a387b22",
-          "publicPath": "/main.3b3ecc619d217a387b22.js"
+          "file": "main.86e74159914a4378c714.js",
+          "hash": "86e74159914a4378c714",
+          "publicPath": "/main.86e74159914a4378c714.js"
         }
       ]
     },
     "21": {
       "js": [
         {
-          "file": "metadata---blog-042-006.72a5d494968e4849ee95.js",
-          "hash": "72a5d494968e4849ee95",
-          "publicPath": "/metadata---blog-042-006.72a5d494968e4849ee95.js"
+          "file": "metadata---blog-042-006.b241602c892d06520d8a.js",
+          "hash": "b241602c892d06520d8a",
+          "publicPath": "/metadata---blog-042-006.b241602c892d06520d8a.js"
         }
       ]
     },
     "22": {
       "js": [
         {
-          "file": "metadata---blog-2019-07-16-dart-basis-4-c-01-efa.f0e5c279285f76b44aef.js",
-          "hash": "f0e5c279285f76b44aef",
-          "publicPath": "/metadata---blog-2019-07-16-dart-basis-4-c-01-efa.f0e5c279285f76b44aef.js"
+          "file": "metadata---blog-2019-07-16-dart-basis-1-ead-33a.00aff356779ef66ba6ca.js",
+          "hash": "00aff356779ef66ba6ca",
+          "publicPath": "/metadata---blog-2019-07-16-dart-basis-1-ead-33a.00aff356779ef66ba6ca.js"
         }
       ]
     },
     "23": {
       "js": [
         {
-          "file": "metadata---blog-tags-basic-03-d-932.b61672d620a491cfedfa.js",
-          "hash": "b61672d620a491cfedfa",
-          "publicPath": "/metadata---blog-tags-basic-03-d-932.b61672d620a491cfedfa.js"
+          "file": "metadata---blog-tags-basic-03-d-932.74d3e1715c3851e6bda8.js",
+          "hash": "74d3e1715c3851e6bda8",
+          "publicPath": "/metadata---blog-tags-basic-03-d-932.74d3e1715c3851e6bda8.js"
         }
       ]
     },
@@ -467,45 +467,45 @@
     "26": {
       "js": [
         {
-          "file": "metadata---blog-tags-widget-927-27f.5c2a59e3d20806a1b9fc.js",
-          "hash": "5c2a59e3d20806a1b9fc",
-          "publicPath": "/metadata---blog-tags-widget-927-27f.5c2a59e3d20806a1b9fc.js"
+          "file": "metadata---blog-tags-widget-927-27f.79e5ef97700f431aa8af.js",
+          "hash": "79e5ef97700f431aa8af",
+          "publicPath": "/metadata---blog-tags-widget-927-27f.79e5ef97700f431aa8af.js"
         }
       ]
     },
     "27": {
       "js": [
         {
-          "file": "metadata---docs-doc-1938-69f.f285c63b0ef0987aa2ac.js",
-          "hash": "f285c63b0ef0987aa2ac",
-          "publicPath": "/metadata---docs-doc-1938-69f.f285c63b0ef0987aa2ac.js"
+          "file": "metadata---docs-doc-1938-69f.2897770d527c11eec7a1.js",
+          "hash": "2897770d527c11eec7a1",
+          "publicPath": "/metadata---docs-doc-1938-69f.2897770d527c11eec7a1.js"
         }
       ]
     },
     "28": {
       "js": [
         {
-          "file": "metadata---docs-doc-203-b-f35.3ec0b829da2c173ae289.js",
-          "hash": "3ec0b829da2c173ae289",
-          "publicPath": "/metadata---docs-doc-203-b-f35.3ec0b829da2c173ae289.js"
+          "file": "metadata---docs-doc-203-b-f35.54547662715dd0c8a14e.js",
+          "hash": "54547662715dd0c8a14e",
+          "publicPath": "/metadata---docs-doc-203-b-f35.54547662715dd0c8a14e.js"
         }
       ]
     },
     "29": {
       "js": [
         {
-          "file": "metadata---docs-doc-3-f-8-f-df4.de6a3482e644d69ef84e.js",
-          "hash": "de6a3482e644d69ef84e",
-          "publicPath": "/metadata---docs-doc-3-f-8-f-df4.de6a3482e644d69ef84e.js"
+          "file": "metadata---docs-doc-3-f-8-f-df4.bff874ee5791d57e2f4d.js",
+          "hash": "bff874ee5791d57e2f4d",
+          "publicPath": "/metadata---docs-doc-3-f-8-f-df4.bff874ee5791d57e2f4d.js"
         }
       ]
     },
     "30": {
       "js": [
         {
-          "file": "metadata---docs-mdx-96-d-0f3.6016253b30735fb7a252.js",
-          "hash": "6016253b30735fb7a252",
-          "publicPath": "/metadata---docs-mdx-96-d-0f3.6016253b30735fb7a252.js"
+          "file": "metadata---docs-mdx-96-d-0f3.4612ee35252e1b656bd8.js",
+          "hash": "4612ee35252e1b656bd8",
+          "publicPath": "/metadata---docs-mdx-96-d-0f3.4612ee35252e1b656bd8.js"
         }
       ]
     },
@@ -521,45 +521,45 @@
     "32": {
       "js": [
         {
-          "file": "nextItem---blog-2019-07-16-dart-basis-15-b-8-8ef.cfb35bbc0ba6c699aade.js",
-          "hash": "cfb35bbc0ba6c699aade",
-          "publicPath": "/nextItem---blog-2019-07-16-dart-basis-15-b-8-8ef.cfb35bbc0ba6c699aade.js"
+          "file": "nextItem---blog-2019-07-16-dart-basis-15-d-1-0b1.3eb73459bd1f39557375.js",
+          "hash": "3eb73459bd1f39557375",
+          "publicPath": "/nextItem---blog-2019-07-16-dart-basis-15-d-1-0b1.3eb73459bd1f39557375.js"
         }
       ]
     },
     "33": {
       "js": [
         {
-          "file": "nextItem---blog-2019-07-16-dart-basis-25-d-1-3ab.a6f9d91e74276a5d449c.js",
-          "hash": "a6f9d91e74276a5d449c",
-          "publicPath": "/nextItem---blog-2019-07-16-dart-basis-25-d-1-3ab.a6f9d91e74276a5d449c.js"
+          "file": "nextItem---blog-2019-07-16-dart-basis-25-b-8-772.f96a248e7190f02e0e3e.js",
+          "hash": "f96a248e7190f02e0e3e",
+          "publicPath": "/nextItem---blog-2019-07-16-dart-basis-25-b-8-772.f96a248e7190f02e0e3e.js"
         }
       ]
     },
     "34": {
       "js": [
         {
-          "file": "nextItem---blog-2019-07-16-dart-basis-3-ead-04c.31739f12f41a41617e16.js",
-          "hash": "31739f12f41a41617e16",
-          "publicPath": "/nextItem---blog-2019-07-16-dart-basis-3-ead-04c.31739f12f41a41617e16.js"
+          "file": "nextItem---blog-2019-07-16-dart-basis-3-c-01-0bc.83462980baf6fd6ffbb2.js",
+          "hash": "83462980baf6fd6ffbb2",
+          "publicPath": "/nextItem---blog-2019-07-16-dart-basis-3-c-01-0bc.83462980baf6fd6ffbb2.js"
         }
       ]
     },
     "35": {
       "js": [
         {
-          "file": "nextItem---blog-2019-07-16-dart-basis-4-aff-40d.4d9832012b2c3cf4d4a1.js",
-          "hash": "4d9832012b2c3cf4d4a1",
-          "publicPath": "/nextItem---blog-2019-07-16-dart-basis-4-aff-40d.4d9832012b2c3cf4d4a1.js"
+          "file": "nextItem---blog-2019-07-16-dart-basis-4-aff-40d.9eee357a0d23d9efdf4d.js",
+          "hash": "9eee357a0d23d9efdf4d",
+          "publicPath": "/nextItem---blog-2019-07-16-dart-basis-4-aff-40d.9eee357a0d23d9efdf4d.js"
         }
       ]
     },
     "36": {
       "js": [
         {
-          "file": "runtime~main.1f5008411fece17b7b96.js",
-          "hash": "1f5008411fece17b7b96",
-          "publicPath": "/runtime~main.1f5008411fece17b7b96.js"
+          "file": "runtime~main.e9b058fd168694ccfe74.js",
+          "hash": "e9b058fd168694ccfe74",
+          "publicPath": "/runtime~main.e9b058fd168694ccfe74.js"
         }
       ]
     },
