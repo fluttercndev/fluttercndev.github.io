@@ -26,6 +26,10 @@
       20,
       21,
       22,
+      23,
+      24,
+      25,
+      26,
       0
     ],
     "@theme/BlogTagsPostsPage": [
@@ -49,14 +53,14 @@
       4,
       1
     ],
-    "@theme/DocLegacyItem": [
+    "@theme/DocLegacyPage": [
       0,
       2,
       3,
       4,
       1
     ],
-    "@theme/DocLegacyPage": [
+    "@theme/DocLegacyItem": [
       0,
       2,
       3,
@@ -90,577 +94,665 @@
       2,
       3
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/src/pages/index.js": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/src/pages/index.js": [
       0,
       1,
       2,
       4
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/blog/2019-07-13-dart-basis-1.md?truncated=true": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-07-29-flutter-image.md?truncated=true": [
       0,
       5
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/blog/2019-07-15-dart-basis-3.md?truncated=true": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-07-12-flutter-widget-videos.md": [
       0,
       6
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/blog/2019-07-12-flutter-widget-videos.md": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-07-13-dart-basis-1.md": [
       0,
       7
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/blog/2019-07-13-dart-basis-1.md": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-07-14-dart-basis-2.md": [
       0,
       8
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/blog/2019-07-14-dart-basis-2.md": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-07-15-dart-basis-3.md": [
       0,
       9
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/blog/2019-07-15-dart-basis-3.md": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-07-16-dart-basis-4.md": [
       0,
       10
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/blog/2019-07-16-dart-basis-4.md": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-07-23-flutter-text.md": [
       0,
       11
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/blog/2019-07-23-flutter-text.md": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-07-29-flutter-image.md": [
       0,
       12
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/blog/2019-07-29-flutter-image.md": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-08-09-flutter-platform-view.md": [
       0,
       13
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/blog/2019-07-16-dart-basis-4.md?truncated=true": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-08-11-flutter-render.md": [
       0,
       14
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/blog/2019-07-12-flutter-widget-videos.md?truncated=true": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-08-09-flutter-platform-view.md?truncated=true": [
       0,
       15
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/blog/2019-07-29-flutter-image.md?truncated=true": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-07-12-flutter-widget-videos.md?truncated=true": [
       0,
       16
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/blog/2019-07-14-dart-basis-2.md?truncated=true": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-07-14-dart-basis-2.md?truncated=true": [
       0,
       17
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/blog/2019-07-23-flutter-text.md?truncated=true": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-07-15-dart-basis-3.md?truncated=true": [
       0,
       18
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/docs/doc1.md": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-08-11-flutter-render.md?truncated=true": [
       0,
       19
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/docs/doc2.md": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-07-13-dart-basis-1.md?truncated=true": [
       0,
       20
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/docs/doc3.md": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-07-23-flutter-text.md?truncated=true": [
       0,
       21
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/docs/mdx.md": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/blog/2019-07-16-dart-basis-4.md?truncated=true": [
       0,
       22
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-docs/docs-b5f.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/docs/doc1.md": [
+      0,
       23
     ],
-    "main": [
-      43,
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/docs/doc2.md": [
+      0,
       24
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-pages/index.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/docs/doc3.md": [
+      0,
       25
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-c06.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/docs/mdx.md": [
+      0,
       26
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-29-flutter-image-e79.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-docs/docs-b5f.json": [
       27
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-tags-basic-f79.json": [
+    "main": [
+      50,
       28
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-tags-dart-86f.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-c06.json": [
       29
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-tags-flutter-6e7.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-08-11-flutter-render-d26.json": [
       30
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-tags-video-835.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-tags-basic-f79.json": [
       31
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-tags-widget-5df.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-tags-dart-86f.json": [
       32
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-docs/docs-doc-1-6ac.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-tags-flutter-6e7.json": [
       33
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-docs/docs-doc-2-29a.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-tags-platform-view-a4d.json": [
       34
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-docs/docs-doc-3-72e.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-tags-video-835.json": [
       35
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-docs/docs-mdx-04f.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-tags-widget-5df.json": [
       36
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-12-flutter-widget-videos-ce5.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-docs/docs-doc-1-6ac.json": [
       37
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-13-dart-basis-1-a34.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-docs/docs-doc-2-29a.json": [
       38
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-14-dart-basis-2-8b3.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-docs/docs-doc-3-72e.json": [
       39
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-15-dart-basis-3-e7b.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-docs/docs-mdx-04f.json": [
       40
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-16-dart-basis-4-1ff.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-pages/index.json": [
       41
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-23-flutter-text-a21.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-12-flutter-widget-videos-ce5.json": [
       42
     ],
-    "runtime~main": [
-      24,
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-13-dart-basis-1-a34.json": [
       43
     ],
-    "/Users/wangjianbing/project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-tags-tags-4c2.json": [
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-14-dart-basis-2-8b3.json": [
       44
+    ],
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-15-dart-basis-3-e7b.json": [
+      45
+    ],
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-16-dart-basis-4-1ff.json": [
+      46
+    ],
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-23-flutter-text-a21.json": [
+      47
+    ],
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-07-29-flutter-image-e79.json": [
+      48
+    ],
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-2019-08-09-flutter-platform-view-871.json": [
+      49
+    ],
+    "runtime~main": [
+      28,
+      50
+    ],
+    "/Users/zhaoyan/Documents/Project/fluttercn.dev/.docusaurus/docusaurus-plugin-content-blog/blog-tags-tags-4c2.json": [
+      51
     ]
   },
   "assets": {
     "0": {
       "js": [
         {
-          "file": "vendors.83aec7c9823a04ee12c3.js",
-          "hash": "83aec7c9823a04ee12c3",
-          "publicPath": "/vendors.83aec7c9823a04ee12c3.js"
+          "file": "vendors.6aff061e8616d8c796a5.js",
+          "hash": "6aff061e8616d8c796a5",
+          "publicPath": "/vendors.6aff061e8616d8c796a5.js"
         }
       ]
     },
     "1": {
       "css": [
         {
-          "file": "docusaurus.de84f42340db5547e6b7.css",
-          "hash": "de84f42340db5547e6b7",
-          "publicPath": "/docusaurus.de84f42340db5547e6b7.css"
+          "file": "docusaurus.c2376046bff4b79cd9f3.css",
+          "hash": "c2376046bff4b79cd9f3",
+          "publicPath": "/docusaurus.c2376046bff4b79cd9f3.css"
         }
       ],
       "js": [
         {
-          "file": "docusaurus.de84f42340db5547e6b7.js",
-          "hash": "de84f42340db5547e6b7",
-          "publicPath": "/docusaurus.de84f42340db5547e6b7.js"
+          "file": "docusaurus.c2376046bff4b79cd9f3.js",
+          "hash": "c2376046bff4b79cd9f3",
+          "publicPath": "/docusaurus.c2376046bff4b79cd9f3.js"
         }
       ]
     },
     "2": {
       "js": [
         {
-          "file": "react-helmet.04a4f2050c4cb1b9fa98.js",
-          "hash": "04a4f2050c4cb1b9fa98",
-          "publicPath": "/react-helmet.04a4f2050c4cb1b9fa98.js"
+          "file": "react-helmet.5014e4f3bc4329a6753f.js",
+          "hash": "5014e4f3bc4329a6753f",
+          "publicPath": "/react-helmet.5014e4f3bc4329a6753f.js"
         }
       ]
     },
     "3": {
       "js": [
         {
-          "file": "prism-react-renderer.3217efbed4296a67988b.js",
-          "hash": "3217efbed4296a67988b",
-          "publicPath": "/prism-react-renderer.3217efbed4296a67988b.js"
+          "file": "prism-react-renderer.c9186bbcf2e9ed9b83b8.js",
+          "hash": "c9186bbcf2e9ed9b83b8",
+          "publicPath": "/prism-react-renderer.c9186bbcf2e9ed9b83b8.js"
         }
       ]
     },
     "4": {
       "css": [
         {
-          "file": "component---users-wangjianbing-project-fluttercn-dev-src-pages-index-js-8-f-8-fe8.72b7ff694556e024a30c.css",
-          "hash": "72b7ff694556e024a30c",
-          "publicPath": "/component---users-wangjianbing-project-fluttercn-dev-src-pages-index-js-8-f-8-fe8.72b7ff694556e024a30c.css"
+          "file": "component---users-zhaoyan-documents-project-fluttercn-dev-src-pages-index-js-85-a-818.6d346e91953cd1df5c10.css",
+          "hash": "6d346e91953cd1df5c10",
+          "publicPath": "/component---users-zhaoyan-documents-project-fluttercn-dev-src-pages-index-js-85-a-818.6d346e91953cd1df5c10.css"
         }
       ],
       "js": [
         {
-          "file": "component---users-wangjianbing-project-fluttercn-dev-src-pages-index-js-8-f-8-fe8.72b7ff694556e024a30c.js",
-          "hash": "72b7ff694556e024a30c",
-          "publicPath": "/component---users-wangjianbing-project-fluttercn-dev-src-pages-index-js-8-f-8-fe8.72b7ff694556e024a30c.js"
+          "file": "component---users-zhaoyan-documents-project-fluttercn-dev-src-pages-index-js-85-a-818.6d346e91953cd1df5c10.js",
+          "hash": "6d346e91953cd1df5c10",
+          "publicPath": "/component---users-zhaoyan-documents-project-fluttercn-dev-src-pages-index-js-85-a-818.6d346e91953cd1df5c10.js"
         }
       ]
     },
     "5": {
       "js": [
         {
-          "file": "content---blog-021-c41.49e0ae6c22b327ac775b.js",
-          "hash": "49e0ae6c22b327ac775b",
-          "publicPath": "/content---blog-021-c41.49e0ae6c22b327ac775b.js"
+          "file": "content---blog-063-c18.0fe36619b47c71f18ebb.js",
+          "hash": "0fe36619b47c71f18ebb",
+          "publicPath": "/content---blog-063-c18.0fe36619b47c71f18ebb.js"
         }
       ]
     },
     "6": {
       "js": [
         {
-          "file": "content---blog-093-e63.5d4e86be0bee3e570111.js",
-          "hash": "5d4e86be0bee3e570111",
-          "publicPath": "/content---blog-093-e63.5d4e86be0bee3e570111.js"
+          "file": "content---blog-2019-07-12-flutter-widget-videosb-80-447.9bb8c13e7190bb098136.js",
+          "hash": "9bb8c13e7190bb098136",
+          "publicPath": "/content---blog-2019-07-12-flutter-widget-videosb-80-447.9bb8c13e7190bb098136.js"
         }
       ]
     },
     "7": {
       "js": [
         {
-          "file": "content---blog-2019-07-12-flutter-widget-videosc-9-f-72c.68e584f8eb77b7c2e12f.js",
-          "hash": "68e584f8eb77b7c2e12f",
-          "publicPath": "/content---blog-2019-07-12-flutter-widget-videosc-9-f-72c.68e584f8eb77b7c2e12f.js"
+          "file": "content---blog-2019-07-13-dart-basis-1337-367.e45eebce08e549723d91.js",
+          "hash": "e45eebce08e549723d91",
+          "publicPath": "/content---blog-2019-07-13-dart-basis-1337-367.e45eebce08e549723d91.js"
         }
       ]
     },
     "8": {
       "js": [
         {
-          "file": "content---blog-2019-07-13-dart-basis-11-d-6-128.c1db54c4ae956d54c6df.js",
-          "hash": "c1db54c4ae956d54c6df",
-          "publicPath": "/content---blog-2019-07-13-dart-basis-11-d-6-128.c1db54c4ae956d54c6df.js"
+          "file": "content---blog-2019-07-14-dart-basis-20-d-2-195.ba089f7f74d0e5a58536.js",
+          "hash": "ba089f7f74d0e5a58536",
+          "publicPath": "/content---blog-2019-07-14-dart-basis-20-d-2-195.ba089f7f74d0e5a58536.js"
         }
       ]
     },
     "9": {
       "js": [
         {
-          "file": "content---blog-2019-07-14-dart-basis-2401-3b5.8683e37fb8eeca5dd4be.js",
-          "hash": "8683e37fb8eeca5dd4be",
-          "publicPath": "/content---blog-2019-07-14-dart-basis-2401-3b5.8683e37fb8eeca5dd4be.js"
+          "file": "content---blog-2019-07-15-dart-basis-327-c-47d.e160f442160af46a040f.js",
+          "hash": "e160f442160af46a040f",
+          "publicPath": "/content---blog-2019-07-15-dart-basis-327-c-47d.e160f442160af46a040f.js"
         }
       ]
     },
     "10": {
       "js": [
         {
-          "file": "content---blog-2019-07-15-dart-basis-3-de-0-611.508b1f7cd8ddec65c562.js",
-          "hash": "508b1f7cd8ddec65c562",
-          "publicPath": "/content---blog-2019-07-15-dart-basis-3-de-0-611.508b1f7cd8ddec65c562.js"
+          "file": "content---blog-2019-07-16-dart-basis-4-ff-3-b58.150dab3d1cb2dae999ff.js",
+          "hash": "150dab3d1cb2dae999ff",
+          "publicPath": "/content---blog-2019-07-16-dart-basis-4-ff-3-b58.150dab3d1cb2dae999ff.js"
         }
       ]
     },
     "11": {
       "js": [
         {
-          "file": "content---blog-2019-07-16-dart-basis-4571-109.6d083e22edcc03ed260a.js",
-          "hash": "6d083e22edcc03ed260a",
-          "publicPath": "/content---blog-2019-07-16-dart-basis-4571-109.6d083e22edcc03ed260a.js"
+          "file": "content---blog-2019-07-23-flutter-text-823-fb9.dc14f2d7e1b14496968e.js",
+          "hash": "dc14f2d7e1b14496968e",
+          "publicPath": "/content---blog-2019-07-23-flutter-text-823-fb9.dc14f2d7e1b14496968e.js"
         }
       ]
     },
     "12": {
       "js": [
         {
-          "file": "content---blog-2019-07-23-flutter-texte-7-f-5e3.3dfd721b53f92690e92d.js",
-          "hash": "3dfd721b53f92690e92d",
-          "publicPath": "/content---blog-2019-07-23-flutter-texte-7-f-5e3.3dfd721b53f92690e92d.js"
+          "file": "content---blog-2019-07-29-flutter-image-7-ce-0ee.92f74a624c803351ae46.js",
+          "hash": "92f74a624c803351ae46",
+          "publicPath": "/content---blog-2019-07-29-flutter-image-7-ce-0ee.92f74a624c803351ae46.js"
         }
       ]
     },
     "13": {
       "js": [
         {
-          "file": "content---blog-2019-07-29-flutter-image-00-f-3c9.081172d395b78d5b1f7e.js",
-          "hash": "081172d395b78d5b1f7e",
-          "publicPath": "/content---blog-2019-07-29-flutter-image-00-f-3c9.081172d395b78d5b1f7e.js"
+          "file": "content---blog-2019-08-09-flutter-platform-view-681-1e6.e5156b3f7eb4fc551796.js",
+          "hash": "e5156b3f7eb4fc551796",
+          "publicPath": "/content---blog-2019-08-09-flutter-platform-view-681-1e6.e5156b3f7eb4fc551796.js"
         }
       ]
     },
     "14": {
       "js": [
         {
-          "file": "content---blog-32-d-e46.3731e99099a4eff4f950.js",
-          "hash": "3731e99099a4eff4f950",
-          "publicPath": "/content---blog-32-d-e46.3731e99099a4eff4f950.js"
+          "file": "content---blog-2019-08-11-flutter-rendercc-3-7dd.333be9d8fc6d67e273d1.js",
+          "hash": "333be9d8fc6d67e273d1",
+          "publicPath": "/content---blog-2019-08-11-flutter-rendercc-3-7dd.333be9d8fc6d67e273d1.js"
         }
       ]
     },
     "15": {
       "js": [
         {
-          "file": "content---blog-350-e41.44e2d9841181d27ca810.js",
-          "hash": "44e2d9841181d27ca810",
-          "publicPath": "/content---blog-350-e41.44e2d9841181d27ca810.js"
+          "file": "content---blog-46-c-a0c.2ffb50519149f549a93f.js",
+          "hash": "2ffb50519149f549a93f",
+          "publicPath": "/content---blog-46-c-a0c.2ffb50519149f549a93f.js"
         }
       ]
     },
     "16": {
       "js": [
         {
-          "file": "content---blog-7-a-4-f34.55655243fe3c57e8e67d.js",
-          "hash": "55655243fe3c57e8e67d",
-          "publicPath": "/content---blog-7-a-4-f34.55655243fe3c57e8e67d.js"
+          "file": "content---blog-5-fc-b56.97f619c2f9eaaaf1ade3.js",
+          "hash": "97f619c2f9eaaaf1ade3",
+          "publicPath": "/content---blog-5-fc-b56.97f619c2f9eaaaf1ade3.js"
         }
       ]
     },
     "17": {
       "js": [
         {
-          "file": "content---blogba-9-5f3.ca1ada9fa9806833b6a8.js",
-          "hash": "ca1ada9fa9806833b6a8",
-          "publicPath": "/content---blogba-9-5f3.ca1ada9fa9806833b6a8.js"
+          "file": "content---blog-536-6e8.39f814bd631a5c3108e5.js",
+          "hash": "39f814bd631a5c3108e5",
+          "publicPath": "/content---blog-536-6e8.39f814bd631a5c3108e5.js"
         }
       ]
     },
     "18": {
       "js": [
         {
-          "file": "content---bloge-13-1a7.e002d98eb6075aa75846.js",
-          "hash": "e002d98eb6075aa75846",
-          "publicPath": "/content---bloge-13-1a7.e002d98eb6075aa75846.js"
+          "file": "content---blog-84-f-da8.ebeb4bae9689553128f3.js",
+          "hash": "ebeb4bae9689553128f3",
+          "publicPath": "/content---blog-84-f-da8.ebeb4bae9689553128f3.js"
         }
       ]
     },
     "19": {
       "js": [
         {
-          "file": "content---docs-doc-1-d-42-e1f.b601f064fd11583acc99.js",
-          "hash": "b601f064fd11583acc99",
-          "publicPath": "/content---docs-doc-1-d-42-e1f.b601f064fd11583acc99.js"
+          "file": "content---blogabb-fcf.eaadc6dd437a717da180.js",
+          "hash": "eaadc6dd437a717da180",
+          "publicPath": "/content---blogabb-fcf.eaadc6dd437a717da180.js"
         }
       ]
     },
     "20": {
       "js": [
         {
-          "file": "content---docs-doc-2-c-2-e-e91.cd3809af1aa5cf89812c.js",
-          "hash": "cd3809af1aa5cf89812c",
-          "publicPath": "/content---docs-doc-2-c-2-e-e91.cd3809af1aa5cf89812c.js"
+          "file": "content---blogb-00-8ad.33b4ed7ed151ff1e7150.js",
+          "hash": "33b4ed7ed151ff1e7150",
+          "publicPath": "/content---blogb-00-8ad.33b4ed7ed151ff1e7150.js"
         }
       ]
     },
     "21": {
       "js": [
         {
-          "file": "content---docs-doc-3688-ea2.e636a1d7a2e46b724bea.js",
-          "hash": "e636a1d7a2e46b724bea",
-          "publicPath": "/content---docs-doc-3688-ea2.e636a1d7a2e46b724bea.js"
+          "file": "content---blogb-3-a-97e.1eb87a5d163daa1e56c2.js",
+          "hash": "1eb87a5d163daa1e56c2",
+          "publicPath": "/content---blogb-3-a-97e.1eb87a5d163daa1e56c2.js"
         }
       ]
     },
     "22": {
       "js": [
         {
-          "file": "content---docs-mdx-442-733.ac4098f1a124cef2b6b5.js",
-          "hash": "ac4098f1a124cef2b6b5",
-          "publicPath": "/content---docs-mdx-442-733.ac4098f1a124cef2b6b5.js"
+          "file": "content---blogf-92-898.2fcc1ca53aae87d3cd45.js",
+          "hash": "2fcc1ca53aae87d3cd45",
+          "publicPath": "/content---blogf-92-898.2fcc1ca53aae87d3cd45.js"
         }
       ]
     },
     "23": {
       "js": [
         {
-          "file": "docsMetadata---docs-219-f23.9b9f920e251a8393b7b7.js",
-          "hash": "9b9f920e251a8393b7b7",
-          "publicPath": "/docsMetadata---docs-219-f23.9b9f920e251a8393b7b7.js"
+          "file": "content---docs-doc-1485-ea9.92bd3560f18f732e53f9.js",
+          "hash": "92bd3560f18f732e53f9",
+          "publicPath": "/content---docs-doc-1485-ea9.92bd3560f18f732e53f9.js"
         }
       ]
     },
     "24": {
-      "css": [
-        {
-          "file": "main.93db69978b551d28bc54.css",
-          "hash": "93db69978b551d28bc54",
-          "publicPath": "/main.93db69978b551d28bc54.css"
-        }
-      ],
       "js": [
         {
-          "file": "main.93db69978b551d28bc54.js",
-          "hash": "93db69978b551d28bc54",
-          "publicPath": "/main.93db69978b551d28bc54.js"
+          "file": "content---docs-doc-23-da-2dd.4a034f98d779e637225b.js",
+          "hash": "4a034f98d779e637225b",
+          "publicPath": "/content---docs-doc-23-da-2dd.4a034f98d779e637225b.js"
         }
       ]
     },
     "25": {
       "js": [
         {
-          "file": "metadata---a-64-e52.e5e8167567b86a72d21c.js",
-          "hash": "e5e8167567b86a72d21c",
-          "publicPath": "/metadata---a-64-e52.e5e8167567b86a72d21c.js"
+          "file": "content---docs-doc-38-b-3-af8.c8033237ff059ea1a90d.js",
+          "hash": "c8033237ff059ea1a90d",
+          "publicPath": "/content---docs-doc-38-b-3-af8.c8033237ff059ea1a90d.js"
         }
       ]
     },
     "26": {
       "js": [
         {
-          "file": "metadata---blog-2-db-770.53c4a3c25968dfb8f96e.js",
-          "hash": "53c4a3c25968dfb8f96e",
-          "publicPath": "/metadata---blog-2-db-770.53c4a3c25968dfb8f96e.js"
+          "file": "content---docs-mdx-0-bf-16e.8b2a06d02bbdcbf1a6a9.js",
+          "hash": "8b2a06d02bbdcbf1a6a9",
+          "publicPath": "/content---docs-mdx-0-bf-16e.8b2a06d02bbdcbf1a6a9.js"
         }
       ]
     },
     "27": {
       "js": [
         {
-          "file": "metadata---blog-2019-07-29-flutter-image-09-e-e7f.3c78e76ca5fe99e77a5f.js",
-          "hash": "3c78e76ca5fe99e77a5f",
-          "publicPath": "/metadata---blog-2019-07-29-flutter-image-09-e-e7f.3c78e76ca5fe99e77a5f.js"
+          "file": "docsMetadata---docs-7-f-7-bea.393dfa0c33cc83457d08.js",
+          "hash": "393dfa0c33cc83457d08",
+          "publicPath": "/docsMetadata---docs-7-f-7-bea.393dfa0c33cc83457d08.js"
         }
       ]
     },
     "28": {
+      "css": [
+        {
+          "file": "main.f7925d425012e63f62cd.css",
+          "hash": "f7925d425012e63f62cd",
+          "publicPath": "/main.f7925d425012e63f62cd.css"
+        }
+      ],
       "js": [
         {
-          "file": "metadata---blog-tags-basicc-82-d21.6e936fd5600ffa6e3520.js",
-          "hash": "6e936fd5600ffa6e3520",
-          "publicPath": "/metadata---blog-tags-basicc-82-d21.6e936fd5600ffa6e3520.js"
+          "file": "main.f7925d425012e63f62cd.js",
+          "hash": "f7925d425012e63f62cd",
+          "publicPath": "/main.f7925d425012e63f62cd.js"
         }
       ]
     },
     "29": {
       "js": [
         {
-          "file": "metadata---blog-tags-dartcbf-34e.4729815a484ed79eae77.js",
-          "hash": "4729815a484ed79eae77",
-          "publicPath": "/metadata---blog-tags-dartcbf-34e.4729815a484ed79eae77.js"
+          "file": "metadata---blog-042-006.4e896abbff6913b03bfc.js",
+          "hash": "4e896abbff6913b03bfc",
+          "publicPath": "/metadata---blog-042-006.4e896abbff6913b03bfc.js"
         }
       ]
     },
     "30": {
       "js": [
         {
-          "file": "metadata---blog-tags-flutter-320-292.e3e39f568df356e2a2da.js",
-          "hash": "e3e39f568df356e2a2da",
-          "publicPath": "/metadata---blog-tags-flutter-320-292.e3e39f568df356e2a2da.js"
+          "file": "metadata---blog-2019-08-11-flutter-render-72-f-f69.4f7d7a04e051b2b3f1c6.js",
+          "hash": "4f7d7a04e051b2b3f1c6",
+          "publicPath": "/metadata---blog-2019-08-11-flutter-render-72-f-f69.4f7d7a04e051b2b3f1c6.js"
         }
       ]
     },
     "31": {
       "js": [
         {
-          "file": "metadata---blog-tags-video-577-edd.1ddb7eee96efbe4e8503.js",
-          "hash": "1ddb7eee96efbe4e8503",
-          "publicPath": "/metadata---blog-tags-video-577-edd.1ddb7eee96efbe4e8503.js"
+          "file": "metadata---blog-tags-basic-03-d-932.be57c13434e07a1a8f47.js",
+          "hash": "be57c13434e07a1a8f47",
+          "publicPath": "/metadata---blog-tags-basic-03-d-932.be57c13434e07a1a8f47.js"
         }
       ]
     },
     "32": {
       "js": [
         {
-          "file": "metadata---blog-tags-widget-713-3a7.d081f8195ff97cc4d18a.js",
-          "hash": "d081f8195ff97cc4d18a",
-          "publicPath": "/metadata---blog-tags-widget-713-3a7.d081f8195ff97cc4d18a.js"
+          "file": "metadata---blog-tags-dart-59-e-f7a.5f6a562f51af902f8146.js",
+          "hash": "5f6a562f51af902f8146",
+          "publicPath": "/metadata---blog-tags-dart-59-e-f7a.5f6a562f51af902f8146.js"
         }
       ]
     },
     "33": {
       "js": [
         {
-          "file": "metadata---docs-doc-187-a-aee.33ef08f44dd51421006f.js",
-          "hash": "33ef08f44dd51421006f",
-          "publicPath": "/metadata---docs-doc-187-a-aee.33ef08f44dd51421006f.js"
+          "file": "metadata---blog-tags-flutterdd-5-77c.2661806a9eb368dec2de.js",
+          "hash": "2661806a9eb368dec2de",
+          "publicPath": "/metadata---blog-tags-flutterdd-5-77c.2661806a9eb368dec2de.js"
         }
       ]
     },
     "34": {
       "js": [
         {
-          "file": "metadata---docs-doc-2-dc-7-408.b9645711919f36b615cd.js",
-          "hash": "b9645711919f36b615cd",
-          "publicPath": "/metadata---docs-doc-2-dc-7-408.b9645711919f36b615cd.js"
+          "file": "metadata---blog-tags-platform-view-400-357.27dfbf920cc76094bba0.js",
+          "hash": "27dfbf920cc76094bba0",
+          "publicPath": "/metadata---blog-tags-platform-view-400-357.27dfbf920cc76094bba0.js"
         }
       ]
     },
     "35": {
       "js": [
         {
-          "file": "metadata---docs-doc-31-f-9-209.d717abe780b750524558.js",
-          "hash": "d717abe780b750524558",
-          "publicPath": "/metadata---docs-doc-31-f-9-209.d717abe780b750524558.js"
+          "file": "metadata---blog-tags-videoc-18-4f1.4b6f7ceb314427b27f02.js",
+          "hash": "4b6f7ceb314427b27f02",
+          "publicPath": "/metadata---blog-tags-videoc-18-4f1.4b6f7ceb314427b27f02.js"
         }
       ]
     },
     "36": {
       "js": [
         {
-          "file": "metadata---docs-mdxb-5-a-c9d.f211b1cda94fd21ba3fd.js",
-          "hash": "f211b1cda94fd21ba3fd",
-          "publicPath": "/metadata---docs-mdxb-5-a-c9d.f211b1cda94fd21ba3fd.js"
+          "file": "metadata---blog-tags-widget-927-27f.428e2f662d801a93b423.js",
+          "hash": "428e2f662d801a93b423",
+          "publicPath": "/metadata---blog-tags-widget-927-27f.428e2f662d801a93b423.js"
         }
       ]
     },
     "37": {
       "js": [
         {
-          "file": "nextItem---blog-2019-07-13-dart-basis-1220-dd2.f7d6a6ff28d5a30377f0.js",
-          "hash": "f7d6a6ff28d5a30377f0",
-          "publicPath": "/nextItem---blog-2019-07-13-dart-basis-1220-dd2.f7d6a6ff28d5a30377f0.js"
+          "file": "metadata---docs-doc-1938-69f.5861992ff1352349fda3.js",
+          "hash": "5861992ff1352349fda3",
+          "publicPath": "/metadata---docs-doc-1938-69f.5861992ff1352349fda3.js"
         }
       ]
     },
     "38": {
       "js": [
         {
-          "file": "nextItem---blog-2019-07-14-dart-basis-2074-310.4abf253bb38d6857130e.js",
-          "hash": "4abf253bb38d6857130e",
-          "publicPath": "/nextItem---blog-2019-07-14-dart-basis-2074-310.4abf253bb38d6857130e.js"
+          "file": "metadata---docs-doc-203-b-f35.9ad653d76ffcc711df6f.js",
+          "hash": "9ad653d76ffcc711df6f",
+          "publicPath": "/metadata---docs-doc-203-b-f35.9ad653d76ffcc711df6f.js"
         }
       ]
     },
     "39": {
       "js": [
         {
-          "file": "nextItem---blog-2019-07-15-dart-basis-3-c-72-cb6.462f1bfaeec33391d5bf.js",
-          "hash": "462f1bfaeec33391d5bf",
-          "publicPath": "/nextItem---blog-2019-07-15-dart-basis-3-c-72-cb6.462f1bfaeec33391d5bf.js"
+          "file": "metadata---docs-doc-3-f-8-f-df4.dae82736c70ff94951bc.js",
+          "hash": "dae82736c70ff94951bc",
+          "publicPath": "/metadata---docs-doc-3-f-8-f-df4.dae82736c70ff94951bc.js"
         }
       ]
     },
     "40": {
       "js": [
         {
-          "file": "nextItem---blog-2019-07-16-dart-basis-4-d-07-edf.58dffca999ee06fbc41f.js",
-          "hash": "58dffca999ee06fbc41f",
-          "publicPath": "/nextItem---blog-2019-07-16-dart-basis-4-d-07-edf.58dffca999ee06fbc41f.js"
+          "file": "metadata---docs-mdx-96-d-0f3.c688a76b887ce71ba6d4.js",
+          "hash": "c688a76b887ce71ba6d4",
+          "publicPath": "/metadata---docs-mdx-96-d-0f3.c688a76b887ce71ba6d4.js"
         }
       ]
     },
     "41": {
       "js": [
         {
-          "file": "nextItem---blog-2019-07-23-flutter-text-491-9fd.c6026284f25b28d1a593.js",
-          "hash": "c6026284f25b28d1a593",
-          "publicPath": "/nextItem---blog-2019-07-23-flutter-text-491-9fd.c6026284f25b28d1a593.js"
+          "file": "metadata---fd-8-5f3.0f3e4c6d1faaa9a1cfc3.js",
+          "hash": "0f3e4c6d1faaa9a1cfc3",
+          "publicPath": "/metadata---fd-8-5f3.0f3e4c6d1faaa9a1cfc3.js"
         }
       ]
     },
     "42": {
       "js": [
         {
-          "file": "nextItem---blog-2019-07-29-flutter-imagef-9-b-2cd.e1c2f3375c0a6ea7383a.js",
-          "hash": "e1c2f3375c0a6ea7383a",
-          "publicPath": "/nextItem---blog-2019-07-29-flutter-imagef-9-b-2cd.e1c2f3375c0a6ea7383a.js"
+          "file": "nextItem---blog-2019-07-13-dart-basis-15-b-8-ccc.150e3abf4918bfd435f0.js",
+          "hash": "150e3abf4918bfd435f0",
+          "publicPath": "/nextItem---blog-2019-07-13-dart-basis-15-b-8-ccc.150e3abf4918bfd435f0.js"
         }
       ]
     },
     "43": {
       "js": [
         {
-          "file": "runtime~main.838ad590756e748791f4.js",
-          "hash": "838ad590756e748791f4",
-          "publicPath": "/runtime~main.838ad590756e748791f4.js"
+          "file": "nextItem---blog-2019-07-14-dart-basis-23-f-7-349.e555006092f53413d366.js",
+          "hash": "e555006092f53413d366",
+          "publicPath": "/nextItem---blog-2019-07-14-dart-basis-23-f-7-349.e555006092f53413d366.js"
         }
       ]
     },
     "44": {
       "js": [
         {
-          "file": "tags---blog-tags-958-e2f.7a02f9209ea62bd50122.js",
-          "hash": "7a02f9209ea62bd50122",
-          "publicPath": "/tags---blog-tags-958-e2f.7a02f9209ea62bd50122.js"
+          "file": "nextItem---blog-2019-07-15-dart-basis-3693-6a6.b24513aa674d96fbd0c6.js",
+          "hash": "b24513aa674d96fbd0c6",
+          "publicPath": "/nextItem---blog-2019-07-15-dart-basis-3693-6a6.b24513aa674d96fbd0c6.js"
+        }
+      ]
+    },
+    "45": {
+      "js": [
+        {
+          "file": "nextItem---blog-2019-07-16-dart-basis-460-a-740.1edc4fe2dc1e170c77b7.js",
+          "hash": "1edc4fe2dc1e170c77b7",
+          "publicPath": "/nextItem---blog-2019-07-16-dart-basis-460-a-740.1edc4fe2dc1e170c77b7.js"
+        }
+      ]
+    },
+    "46": {
+      "js": [
+        {
+          "file": "nextItem---blog-2019-07-23-flutter-textc-01-5e3.63003e3c1f4cbd8c047e.js",
+          "hash": "63003e3c1f4cbd8c047e",
+          "publicPath": "/nextItem---blog-2019-07-23-flutter-textc-01-5e3.63003e3c1f4cbd8c047e.js"
+        }
+      ]
+    },
+    "47": {
+      "js": [
+        {
+          "file": "nextItem---blog-2019-07-29-flutter-image-018-dd6.bd7a717eaabc2531c7ba.js",
+          "hash": "bd7a717eaabc2531c7ba",
+          "publicPath": "/nextItem---blog-2019-07-29-flutter-image-018-dd6.bd7a717eaabc2531c7ba.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "nextItem---blog-2019-08-09-flutter-platform-viewc-00-0b8.b4e8c47aaf25c015b9b8.js",
+          "hash": "b4e8c47aaf25c015b9b8",
+          "publicPath": "/nextItem---blog-2019-08-09-flutter-platform-viewc-00-0b8.b4e8c47aaf25c015b9b8.js"
+        }
+      ]
+    },
+    "49": {
+      "js": [
+        {
+          "file": "nextItem---blog-2019-08-11-flutter-render-1-b-0-118.0ec2df9df1e9b3f0ac41.js",
+          "hash": "0ec2df9df1e9b3f0ac41",
+          "publicPath": "/nextItem---blog-2019-08-11-flutter-render-1-b-0-118.0ec2df9df1e9b3f0ac41.js"
+        }
+      ]
+    },
+    "50": {
+      "js": [
+        {
+          "file": "runtime~main.a6b12dc73087301b922f.js",
+          "hash": "a6b12dc73087301b922f",
+          "publicPath": "/runtime~main.a6b12dc73087301b922f.js"
+        }
+      ]
+    },
+    "51": {
+      "js": [
+        {
+          "file": "tags---blog-tagsac-5-ed9.088d15322c8a7d2649ca.js",
+          "hash": "088d15322c8a7d2649ca",
+          "publicPath": "/tags---blog-tagsac-5-ed9.088d15322c8a7d2649ca.js"
         }
       ]
     }
